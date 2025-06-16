@@ -1,4 +1,4 @@
-# SQL para Analise de Dados 📂
+# Transformando dados em insights estratégicos! 📊
 
 Projetos realizados para analise.
 
