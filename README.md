@@ -76,8 +76,8 @@ Entender o perfil dos leads que visitaram o site ou demonstraram interesse em ve
 ## 🛠️ Como Acessar
 
 1. Faça o download dos arquivos:
-   - [`Dashboard_Acompanhamento_Vendas.xlsx`](link_do_arquivo)
-   - [`Analise_Perfil_Clientes.xlsx`](link_do_arquivo)
+   - [`Dashboard_Acompanhamento_Vendas.xlsx`](https://github.com/williamsousab/sql_basic_advanced/blob/main/Dashboard_Acompanhamento_Vendas.xlsx)
+   - [`Analise_Perfil_Clientes.xlsx`](https://github.com/williamsousab/sql_basic_advanced/blob/main/Analise_Perfil_Clientes.xlsx)
 
 2. Abra com Excel (versão com suporte a segmentações e slicers interativos)
 
